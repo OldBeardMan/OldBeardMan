@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OldBeardMan
 - 👀 I’m interested in web development, music production and graphic design.
 - 🌱 I’m currently learning Pygame library in Python.
-- 📫 You can reach me by my social media accounts.
 - ⚡ Fun fact: All of my music tells one big connected story.
